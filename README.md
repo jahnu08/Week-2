@@ -36,7 +36,6 @@ This project demonstrates how Machine Learning can help forecast EV costs and as
 
 EV_Cost_Prediction_Week2.ipynb – Colab notebook with full code
 
-ev_data.csv – Dataset used for training and testing
 
 README.md – Project overview and explanation
 
